@@ -1,0 +1,10 @@
+C:\Users\kuban\source\repos\ELTE-S-rekrutacja\ELTE-S-rekrutacja\bin\Debug\ELTE-S-rekrutacja.exe.config
+C:\Users\kuban\source\repos\ELTE-S-rekrutacja\ELTE-S-rekrutacja\bin\Debug\ELTE-S-rekrutacja.exe
+C:\Users\kuban\source\repos\ELTE-S-rekrutacja\ELTE-S-rekrutacja\bin\Debug\ELTE-S-rekrutacja.pdb
+C:\Users\kuban\source\repos\ELTE-S-rekrutacja\ELTE-S-rekrutacja\obj\Debug\ELTE-S-rekrutacja.csproj.AssemblyReference.cache
+C:\Users\kuban\source\repos\ELTE-S-rekrutacja\ELTE-S-rekrutacja\obj\Debug\ELTE_S_rekrutacja.Form1.resources
+C:\Users\kuban\source\repos\ELTE-S-rekrutacja\ELTE-S-rekrutacja\obj\Debug\ELTE_S_rekrutacja.Properties.Resources.resources
+C:\Users\kuban\source\repos\ELTE-S-rekrutacja\ELTE-S-rekrutacja\obj\Debug\ELTE-S-rekrutacja.csproj.GenerateResource.cache
+C:\Users\kuban\source\repos\ELTE-S-rekrutacja\ELTE-S-rekrutacja\obj\Debug\ELTE-S-rekrutacja.csproj.CoreCompileInputs.cache
+C:\Users\kuban\source\repos\ELTE-S-rekrutacja\ELTE-S-rekrutacja\obj\Debug\ELTE-S-rekrutacja.exe
+C:\Users\kuban\source\repos\ELTE-S-rekrutacja\ELTE-S-rekrutacja\obj\Debug\ELTE-S-rekrutacja.pdb
